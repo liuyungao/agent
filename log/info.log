@@ -1,0 +1,197 @@
+2015-11-09 10:09:02 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 10:09:02 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 10:09:02 [INFO] RAMJobStore initialized.
+2015-11-09 10:09:02 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 10:09:02 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 10:09:02 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 11:23:48 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 11:23:48 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 11:23:48 [INFO] RAMJobStore initialized.
+2015-11-09 11:23:48 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 11:23:48 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 11:23:48 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 11:23:48 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 11:26:03 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 11:26:03 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 11:26:03 [INFO] RAMJobStore initialized.
+2015-11-09 11:26:03 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 11:26:03 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 11:26:03 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 11:26:03 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 11:29:54 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 11:29:54 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 11:29:54 [INFO] RAMJobStore initialized.
+2015-11-09 11:29:54 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 11:29:54 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 11:29:54 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 11:29:54 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 11:34:38 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 11:34:38 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 11:34:38 [INFO] RAMJobStore initialized.
+2015-11-09 11:34:38 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 11:34:38 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 11:34:38 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 11:34:38 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 12:29:52 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 12:29:52 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 12:29:52 [INFO] RAMJobStore initialized.
+2015-11-09 12:29:52 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 12:29:52 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 12:29:52 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 12:29:52 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 12:34:58 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 12:34:58 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 12:34:58 [INFO] RAMJobStore initialized.
+2015-11-09 12:34:58 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 12:34:58 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 12:34:58 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 12:34:58 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 12:36:00 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 12:36:00 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 12:36:00 [INFO] RAMJobStore initialized.
+2015-11-09 12:36:00 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 12:36:00 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 12:36:00 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 12:36:01 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:07:57 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 14:07:57 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 14:07:57 [INFO] RAMJobStore initialized.
+2015-11-09 14:07:57 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 14:07:57 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 14:07:57 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:07:57 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:49:21 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 14:49:21 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 14:49:21 [INFO] RAMJobStore initialized.
+2015-11-09 14:49:21 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 14:49:21 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 14:49:21 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:49:21 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:49:21 [INFO] agent is started!
+2015-11-09 14:50:13 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 14:50:13 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 14:50:13 [INFO] RAMJobStore initialized.
+2015-11-09 14:50:13 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 14:50:13 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 14:50:13 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:50:13 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:50:13 [INFO] agent is started!
+2015-11-09 14:51:03 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 14:51:03 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 14:51:03 [INFO] RAMJobStore initialized.
+2015-11-09 14:51:03 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 14:51:03 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 14:51:03 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:51:03 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:51:03 [INFO] agent is started!
+2015-11-09 14:53:30 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 14:53:30 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 14:53:30 [INFO] RAMJobStore initialized.
+2015-11-09 14:53:30 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 14:53:30 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 14:53:30 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:53:30 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:53:30 [INFO] agent is started!
+2015-11-09 14:59:14 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 14:59:14 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 14:59:14 [INFO] RAMJobStore initialized.
+2015-11-09 14:59:14 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 14:59:14 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 14:59:14 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:59:14 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 14:59:14 [INFO] agent is started!
+2015-11-09 15:01:02 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 15:01:02 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 15:01:02 [INFO] RAMJobStore initialized.
+2015-11-09 15:01:02 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 15:01:02 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 15:01:02 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:01:02 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:01:02 [INFO] agent is started!
+2015-11-09 15:45:17 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 15:45:17 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 15:45:17 [INFO] RAMJobStore initialized.
+2015-11-09 15:45:17 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 15:45:17 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 15:45:17 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:45:17 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:45:17 [INFO] agent is started!
+2015-11-09 15:45:25 [INFO] 收到获取实时数据请求,开始返回实时数据
+2015-11-09 15:45:25 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:45:45 [INFO] 收到修改调度任务时间请求,开始按修改后时间返回数据
+2015-11-09 15:45:45 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:46:05 [INFO] 收到停止实时数据请求,开始停止返回实时数据
+2015-11-09 15:46:23 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 15:46:23 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 15:46:23 [INFO] RAMJobStore initialized.
+2015-11-09 15:46:23 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 15:46:23 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 15:46:23 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:46:23 [ERROR] java.io.IOException: Error while binding on 0.0.0.0/0.0.0.0:2345
+original message : Address already in use
+2015-11-09 15:46:38 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 15:46:38 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 15:46:38 [INFO] RAMJobStore initialized.
+2015-11-09 15:46:38 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 15:46:38 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 15:46:38 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:46:38 [ERROR] java.io.IOException: Error while binding on 0.0.0.0/0.0.0.0:2345
+original message : Address already in use
+2015-11-09 15:46:57 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 15:46:57 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 15:46:57 [INFO] RAMJobStore initialized.
+2015-11-09 15:46:57 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 15:46:57 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 15:46:57 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:46:57 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:46:57 [INFO] agent is started!
+2015-11-09 15:47:03 [INFO] 收到获取实时数据请求,开始返回实时数据
+2015-11-09 15:47:03 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:50:12 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 15:50:12 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 15:50:12 [INFO] RAMJobStore initialized.
+2015-11-09 15:50:12 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 15:50:12 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 15:50:12 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:50:12 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:50:12 [INFO] agent is started!
+2015-11-09 15:50:19 [INFO] 收到获取实时数据请求,开始返回实时数据
+2015-11-09 15:50:19 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:51:08 [INFO] /127.0.0.1:50271关闭了连接！
+2015-11-09 15:52:07 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 15:52:07 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 15:52:07 [INFO] RAMJobStore initialized.
+2015-11-09 15:52:07 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 15:52:07 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 15:52:07 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:52:07 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:52:07 [INFO] agent is started!
+2015-11-09 15:52:13 [INFO] 收到获取实时数据请求,开始返回实时数据
+2015-11-09 15:52:13 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:52:29 [INFO] /127.0.0.1:50336关闭了连接！
+2015-11-09 15:55:33 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 15:55:33 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 15:55:33 [INFO] RAMJobStore initialized.
+2015-11-09 15:55:33 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 15:55:33 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 15:55:33 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:55:34 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:55:34 [INFO] agent is started!
+2015-11-09 15:55:39 [INFO] 收到获取实时数据请求,开始返回实时数据
+2015-11-09 15:55:39 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:55:59 [INFO] 收到修改调度任务时间请求,开始按修改后时间返回数据
+2015-11-09 15:55:59 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:56:16 [INFO] /127.0.0.1:50463关闭了连接！
+2015-11-09 15:58:21 [INFO] Job execution threads will use class loader of thread: main
+2015-11-09 15:58:21 [INFO] Quartz Scheduler v.1.6.0 created.
+2015-11-09 15:58:21 [INFO] RAMJobStore initialized.
+2015-11-09 15:58:21 [INFO] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2015-11-09 15:58:21 [INFO] Quartz scheduler version: 1.6.0
+2015-11-09 15:58:21 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:58:21 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:58:21 [INFO] agent is started!
+2015-11-09 15:58:25 [INFO] 收到获取实时数据请求,开始返回实时数据
+2015-11-09 15:58:25 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:58:45 [INFO] 收到修改调度任务时间请求,开始按修改后时间返回数据
+2015-11-09 15:58:45 [INFO] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2015-11-09 15:58:50 [INFO] /127.0.0.1:50490关闭了连接！
