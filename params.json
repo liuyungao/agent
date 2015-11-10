@@ -1,0 +1,1 @@
+{"name":"Agent","tagline":"a agent which could monitor system like cpu,mem,disk","body":"# agent\r\nThis is a monitoring system of the client, you can connect to the agent through the Mina and access to the system information\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
